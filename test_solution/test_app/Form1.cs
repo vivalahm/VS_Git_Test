@@ -21,6 +21,7 @@ namespace test_app
         {
             MessageBox.Show("Hello World!");
             MessageBox.Show("I'm Hotfix");
+            MessageBox.Show("I'm Hotfix2");
         }
     }
 }
