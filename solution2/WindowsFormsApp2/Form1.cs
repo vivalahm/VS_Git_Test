@@ -20,6 +20,7 @@ namespace WindowsFormsApp2
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Hello World!");
+            MessageBox.Show("I'm Hotfix");
         }
     }
 }
